@@ -13,9 +13,9 @@ import CustomConfigs from './CustomConfigs'
 
 const defaultConfigs: Configuration = {
   active: false,
-  affiliateId: '{{affiliateId}}',
+  affiliateId: 'MNF',
   salesChannel: '',
-  email: 'email@email.com',
+  email: 'murilo.faria@vtex.com.br',
   allowFranchiseAccounts: false
 }
 

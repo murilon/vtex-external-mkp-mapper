@@ -1,5 +1,5 @@
 {
-  "name": "{{appName}}",
+  "name": "external-mkp",
   "version": "0.0.0",
   "scripts": {
     "test": "vtex-test-tools test"

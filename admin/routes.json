@@ -1,10 +1,10 @@
 {
   "admin.app.example": {
     "component": "AdminPanel",
-    "path": "/admin/app/{{appVendor}}/{{appName}}"
+    "path": "/admin/app/murilofaria/external-mkp"
   },
   "admin.app.mapper": {
     "component": "MkpCategoryMapperSpinner",
-    "path": "/admin/app/mkp-category-mapper.{{appVendor}}.{{appName}}"
+    "path": "/admin/app/mkp-category-mapper.murilofaria.external-mkp"
   }
 }

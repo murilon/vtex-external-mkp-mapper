@@ -1,15 +1,15 @@
 {
   "section": "marketplace",
   "titleId": "admin/app.title",
-  "subSection": "{{appVendor}}.{{appName}}.configuration",
+  "subSection": "murilofaria.externak-mkp.configuration",
   "subSectionItems": [
     {
       "labelId": "admin/app.config.title",
-      "path": "/admin/{{appVendor}}/{{appName}}"
+      "path": "/admin/murilofaria/external-mkp"
     },
     {
       "labelId": "admin/app.mapper.title",
-      "path": "/admin/mkp-category-mapper.{{appVendor}}.{{appName}}"
+      "path": "/admin/mkp-category-mapper.murilofaria.external-mkp"
     }
   ]
 }

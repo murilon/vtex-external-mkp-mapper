@@ -1,9 +1,9 @@
 {
-  "name": "{{appName}}",
-  "vendor": "{{appVendor}}",
-  "version": "0.0.0",
-  "title": "{{manifestTitle}}",
-  "description": "{{manifestDescription}}",
+  "name": "external-mkp",
+  "vendor": "murilofaria",
+  "version": "0.0.1",
+  "title": "External MKP",
+  "description": "External MKP App Template",
   "mustUpdateAt": "2018-01-04",
   "categories": [],
   "builders": {
@@ -25,8 +25,8 @@
     {
       "name": "outbound-access",
       "attrs": {
-        "host": "{{connectorEndpointHost}}",
-        "path": "*"
+        "host": "externalmkp.free.beeceptor.com",
+        "path": "/*/"
       }
     },
     {
